@@ -5,9 +5,9 @@
 
 ## 1. Overview :				
 ### a. Goal :	
-    * Based on volume and price data , can we predict stock prices?			
-    * Why?			
-    * Because while investing other peoples money we need to be really careful and we need real data to support our decisions rather than intuition			
+* Based on volume and price data , can we predict stock prices?			
+* Why?			
+* Because while investing other peoples money we need to be really careful and we need real data to support our decisions rather than intuition			
 	
 				
 ### b. Impact :	
